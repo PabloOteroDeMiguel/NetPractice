@@ -1,0 +1,4 @@
+https://github.com/tblaase/Net_Practice#special-ip-ranges
+
+
+https://www.redeszone.net/tutoriales/redes-cable/calcular-subnetting-ip-red-mascara-subred-ipv4/
